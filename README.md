@@ -1,14 +1,167 @@
-# The-Drunk-and-AI
-HRI Project: A conceptual prototype of HGN self-testing mobile application
+# 🚀 Advancing Manufacturing Through Artificial Intelligence
 
-(A project in Human-Robot Interaction)
+## 📌 Overview
+This project focuses on transforming traditional manufacturing systems into AI-driven intelligent manufacturing ecosystems. It integrates Artificial Intelligence (AI), IoT, Edge Computing, and Robotics to enable automation, predictive analytics, and real-time decision-making.
 
-According to the statistic number from U.S. Department of Transportation in 2017, 29 people die in motor vehicle crashes that involve an alcohol-impaired driver every day; in 2016, 10,497 people died in alcohol-impaired driving crashes, accounting for 28% of all traffic-related deaths in the United States; one over three of drivers are involved in a DUI instance either as driver or as a victim of a impaired driver.
+The system shifts manufacturing from:
+- Reactive → Predictive & Autonomous
 
-The Standardized Field Sobriety Test (SFST) is a battery of 3 tests performed during a traffic stop in order to determine if a driver is impaired. The Horizontal Gaze Nystagmus (HGN), developed in the 1970s, is one of them that are scientifically validated, and are admissible as evidence in court in a majority of states. The accuracy is about 78-88%.
+---
 
-“Nystagmus" generally refers to any bouncing or jerking of the eye. Police officers are concerned only with horizontal gaze nystagmus, a completely involuntary motion that becomes more pronounced when an individual is impaired by alcohol. Usually, police officer may use notable moving object, such as moving flash light left and right in front of a person to implement the test.
+## 🎯 Objectives
+- Improve production efficiency and output  
+- Reduce operational and maintenance costs  
+- Enable real-time monitoring and decision-making  
+- Enhance product quality using AI  
+- Build a smart, connected, and adaptive manufacturing system  
 
-This project aims to reproduce HGN by smart phones, because a smart phone usually consists of flash light and camera, which enable the smart phone to take a picture or record a video about a person's eyes movement during flash light moving in front of him or her.
+---
 
-The project try to integrate machine learning with facial features recognition, OpenCV and Android Studio 5.0 Lollipop on Python to develop a prototype of Horizontal Gaze Nystagmus (HGN) self-testing mobile application. By using this app, a user will obtain test data (his or her eyes movement of tracing moving flash light) and send it to a server that is already trained, and receive the result of his or her drunk level.
+## 🧠 Key Modules
+
+### 🔧 Predictive Maintenance
+- Real-time machine monitoring  
+- Failure prediction using AI/ML  
+- Reduces downtime  
+
+### 🎯 Quality Control
+- AI-based defect detection (Computer Vision)  
+- Improves accuracy and consistency  
+
+### ⚙️ Process Optimization
+- Data-driven workflow improvements  
+- Resource optimization  
+
+### 📦 Supply Chain Management
+- Demand forecasting  
+- Inventory tracking  
+
+### 🤖 Robotics & Automation
+- AI-powered robots  
+- Human-robot collaboration  
+
+### 📊 Intelligent Decision Support
+- Data-driven insights  
+- Explainable AI (XAI)  
+
+---
+
+## 🏗️ System Architecture
+- IoT Sensors → Data Collection  
+- Edge Computing → Low latency processing  
+- AI Models → Predictions & Automation  
+- Dashboard → Visualization  
+
+---
+
+## 👥 User Roles
+- Operator  
+- Maintenance Engineer  
+- Quality Inspector  
+- Manager  
+- Admin  
+
+---
+
+## 🔐 Functional Features
+
+### Authentication
+- Secure login & registration  
+- Role-based access control  
+
+### Dashboard
+- Real-time analytics  
+- KPI visualization  
+
+### AI Features
+- Predictive maintenance  
+- Defect detection  
+- Demand forecasting  
+
+### Admin Controls
+- User management  
+- AI model updates  
+- System monitoring  
+
+---
+
+## ⚙️ Non-Functional Requirements
+- High performance  
+- Scalable system  
+- Secure data handling  
+- User-friendly UI  
+- Modular architecture  
+
+---
+
+## 💻 Tech Stack
+- Backend: Node.js / Python  
+- Frontend: React.js  
+- Database: MongoDB / SQL  
+- AI/ML: TensorFlow / PyTorch / Scikit-learn  
+- Visualization: Chart.js / D3.js  
+
+---
+
+## 🖥️ Hardware Requirements
+- Pentium IV 2.4 GHz  
+- 512 MB RAM  
+- 40 GB HDD  
+- IoT Sensors  
+- Industrial Cameras  
+
+---
+
+## 💿 Software Requirements
+- Windows OS  
+- Python  
+- AI Libraries  
+- Web Browser  
+
+---
+
+## 📚 Applications
+- Smart factories  
+- Automotive manufacturing  
+- Industrial automation  
+
+---
+
+## ⚠️ Challenges Addressed
+- Machine downtime  
+- Manual inspection errors  
+- Data silos  
+- Inefficient planning  
+
+---
+
+## 🚀 Future Enhancements
+- Cloud integration (AWS / Azure)  
+- Cybersecurity improvements  
+- ERP integration  
+- Digital Twin technology  
+
+---
+
+## 📖 References
+- AI in Smart Manufacturing (Lee et al., 2018)  
+- Predictive Maintenance using ML  
+- AI-based Quality Control  
+- Industry 4.0 Systems  
+
+---
+
+## 💡 Conclusion
+This project demonstrates how AI can transform manufacturing into a smart, efficient, and adaptive ecosystem with improved productivity, reduced costs, and intelligent decision-making.
+
+---
+
+## 👨‍💻 Author
+Mohammed Hasnain  
+B.E CSE (AI & ML)  
+Full Stack Developer | AI Enthusiast  
+
+---
+
+## ⭐ Support
+If you like this project, give it a ⭐ on GitHub!
